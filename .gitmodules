@@ -1,0 +1,30 @@
+[submodule "JavaBootcampDay1"]
+	path = JavaBootcampDay1
+	url = https://github.com/dvayurova/Java1.git
+[submodule "JavaBootcampDay2"]
+	path = JavaBootcampDay2
+	url = https://github.com/dvayurova/Java2.git
+[submodule "JavaBootcampDay3"]
+	path = JavaBootcampDay3
+	url = https://github.com/dvayurova/Java3.git
+[submodule "JavaBootcampDay4"]
+	path = JavaBootcampDay4
+	url = https://github.com/dvayurova/Java4.git
+[submodule "JavaBootcampDay5"]
+	path = JavaBootcampDay5
+	url = https://github.com/dvayurova/Java5.git
+[submodule "JavaBootcampDay6"]
+	path = JavaBootcampDay6
+	url = https://github.com/dvayurova/Java6.git
+[submodule "JavaBootcampDay7"]
+	path = JavaBootcampDay7
+	url = https://github.com/dvayurova/Java7.git
+[submodule "JavaBootcampDay8"]
+	path = JavaBootcampDay8
+	url = https://github.com/dvayurova/Java8.git
+[submodule "JavaBootcampDay9"]
+	path = JavaBootcampDay9
+	url = https://github.com/dvayurova/Java9.git
+[submodule "JavaBootcampDay10"]
+	path = JavaBootcampDay10
+	url = https://github.com/dvayurova/Java10.git
